@@ -1,0 +1,24 @@
+{
+  "name": "leccion-38-gentle-tdd",
+  "version": "1.0.0",
+  "description": "Ejercicio de TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arybv/leccion-38-gentle-tdd.git"
+  },
+  "keywords": [
+    "test",
+    "tdd",
+    "ejemplo"
+  ],
+  "author": "Arantza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arybv/leccion-38-gentle-tdd/issues"
+  },
+  "homepage": "https://github.com/Arybv/leccion-38-gentle-tdd#readme"
+}
